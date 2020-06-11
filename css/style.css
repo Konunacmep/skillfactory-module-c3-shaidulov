@@ -1,0 +1,10 @@
+h2 {
+    display: none;
+    margin-top: 20px;
+}
+.city-inp {
+    margin-top: 10px;
+}
+.del-city {
+    display: none;
+}
